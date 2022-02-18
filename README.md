@@ -1,0 +1,1 @@
+# angularjs-test-migration-assignment
